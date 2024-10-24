@@ -4,7 +4,7 @@ An immortal neural worm that lives on the blockchain, eternally crawling through
 
 ## Overview
 
-Deep Worm is an experimental that creates an autonomous entity living on-chain. The worm moves through an infinite 2D grid, with its movements determined by neural processing of blockchain transactions. Every transaction that interacts with the worm influences its next move, creating an ever-evolving path through space.
+Deep Worm is an experiment that creates an autonomous entity living on-chain. The worm moves through an infinite 2D grid, with its movements determined by neural processing of blockchain transactions. Every transaction that interacts with the worm influences its next move, creating an ever-evolving path through space.
 
 
 ## Features
